@@ -4,4 +4,4 @@
 
 - **Faculdade:** Fatec Ogari de Castro Pacheco (Itapira)
 - **Curso:** Desenvolvimento de Software Multiplataforma
-- **Aluno:** [Lims31] (https: //www.github.com/Lims31)
+- **Aluna:** Lidiane Marques- Perfil do Github:  [Lims31] (https: //www.github.com/Lims31)
